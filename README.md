@@ -1,6 +1,8 @@
 Hi, I'm Yash Jadhav — a tech enthusiast diving deep into the world of IoT and cybersecurity.
 
-🔭 Currently Interested in : Random IoT projects
+🎓 Currently completing my Diploma in Electronics & Telecommunication Engineering (ENTC)
+
+🔭 Working on: Random IoT projects
 
 🌱 Learning: Cybersecurity
 
