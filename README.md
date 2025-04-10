@@ -1,6 +1,6 @@
 Hi, I'm Yash Jadhav — a tech enthusiast diving deep into the world of IoT and cybersecurity.
 
-🔭 Currently working on: Random IoT projects
+🔭 Currently Interested in : Random IoT projects
 
 🌱 Learning: Cybersecurity
 
