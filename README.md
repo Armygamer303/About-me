@@ -1,6 +1,6 @@
 Hi, I'm Yash Jadhav — a tech enthusiast diving deep into the world of IoT and cybersecurity.
 
-🎓 Currently completing my Diploma in Electronics & Telecommunication Engineering (ENTC)
+🎓 Currently completed my Diploma in Electronics & Telecommunication Engineering (ENTC)
 
 🔭 Working on: Random IoT projects
 
