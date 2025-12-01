@@ -9,3 +9,5 @@ Hi, I'm Yash Jadhav — a tech enthusiast diving deep into the world of IoT and 
 🛠️ Tech I work with: Arduino, Python
 
 📫 Reach me: armygamer303yj@gmail.com
+              armygamer303@yahoo.com
+    (ps: May respond late to your mails)
