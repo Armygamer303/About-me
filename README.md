@@ -1,12 +1,11 @@
 Hi, I'm Yash Jadhav — a tech enthusiast diving deep into the world of IoT and cybersecurity.
 
-🎓 Currently completed my Diploma in Electronics & Telecommunication Engineering (ENTC)
+🎓 Completed my Diploma in Electronics & Telecommunication Engineering (ENTC)
 
-🔭 Working on: Random IoT projects
+🔭 Working at: Wipro Ltd
 
 🌱 Learning: Cybersecurity
 
 🛠️ Tech I work with: Arduino, Python
 
 📫 Reach me: armygamer303yj@gmail.com
-
